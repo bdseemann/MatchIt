@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entries="@array/pairs_labels" android:entryValues="@array/pairs_values" android:dialogTitle="@string/prefPgLblStr" android:title="@string/prefPgLblStr" android:defaultValue="8" android:key="NO_OF_PAIRS"/>
+    
+
+</PreferenceScreen>

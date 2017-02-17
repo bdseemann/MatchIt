@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itmEnd" android:title="End Game"></item>
+    <item android:id="@+id/itmStats" android:title="Stats"></item>
+    <item android:id="@+id/itmReset" android:title="Reset Stats"></item>
+    <item android:id="@+id/itmPrefs" android:title="Preferences"></item>
+    
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pairs_labels">
+        <item >Very Easy (6)</item>
+        <item >Easy (8)</item>
+        <item >Medium (10)</item>
+        <item >Hard (12)</item>
+        <item >Very Hard (16)</item>                
+    </string-array>
+    <string-array name="pairs_values">
+        <item >6</item>
+        <item >8</item>
+        <item >10</item>
+        <item >12</item>
+        <item >16</item>                        
+    </string-array>
+    
+</resources>

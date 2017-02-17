@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MatchItBudSeemannActivity!</string>
+    <string name="app_name">MatchItBudSeemann</string>
+    <string name="statsPgLblStr">MatchIt! Statistics</string>
+    <string name="prefPgLblStr">Difficulty Level</string>
+    <string name="strClicksLbl">Clicks:</string>
+    <string name="strClicksNo">0</string>
+    <string name="strLevelLbl">Difficulty level:</string>
+    <string name="strLevelVal">Very Difficult</string>
+    <string name="strGamesLbl">Games played:</string>
+    <string name="strGamesVal">0</string>
+    <string name="strAveLbl">Average clicks:</string>
+    <string name="strAveVal">0.0</string>
+    <string name="strMinLbl">Minimum clicks:</string>
+    <string name="strMinVal">0</string>
+    <string name="strMaxLbl">Maximum clicks:</string>
+    <string name="strMaxVal">0</string>
+    <string name="strQuitLbl">Games quit:</string>
+    <string name="strQuitVal">0</string>
+
+
+
+</resources>
